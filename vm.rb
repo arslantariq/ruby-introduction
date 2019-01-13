@@ -16,4 +16,4 @@ class Computer
   end
 end
 
-my_computer = Computer.new("arslan", "123")
+my_computer = Computer.new("arslan tariq", "123")
