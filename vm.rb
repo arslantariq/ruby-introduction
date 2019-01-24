@@ -1,3 +1,4 @@
+# Created by Syed Arslan Tariq
 class Computer
   @@users = {}
   def initialize (username, password)
