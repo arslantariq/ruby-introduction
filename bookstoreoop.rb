@@ -1,3 +1,4 @@
+# Created by Syed Arslan Tariq
 class BookStore
   def initialize
     @books = {
